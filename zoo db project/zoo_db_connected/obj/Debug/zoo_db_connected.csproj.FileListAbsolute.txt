@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\zoo_db_connected\bin\Debug\zoo_db_connected.exe.config
+C:\Users\user\source\repos\zoo_db_connected\bin\Debug\zoo_db_connected.exe
+C:\Users\user\source\repos\zoo_db_connected\bin\Debug\zoo_db_connected.pdb
+C:\Users\user\source\repos\zoo_db_connected\obj\Debug\zoo_db_connected.csprojAssemblyReference.cache
+C:\Users\user\source\repos\zoo_db_connected\obj\Debug\zoo_db_connected.Form1.resources
+C:\Users\user\source\repos\zoo_db_connected\obj\Debug\zoo_db_connected.Properties.Resources.resources
+C:\Users\user\source\repos\zoo_db_connected\obj\Debug\zoo_db_connected.csproj.GenerateResource.cache
+C:\Users\user\source\repos\zoo_db_connected\obj\Debug\zoo_db_connected.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\zoo_db_connected\obj\Debug\zoo_db_connected.exe
+C:\Users\user\source\repos\zoo_db_connected\obj\Debug\zoo_db_connected.pdb
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\final project\c#\zoo_db_connected\bin\Debug\zoo_db_connected.exe.config
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\final project\c#\zoo_db_connected\bin\Debug\zoo_db_connected.exe
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\final project\c#\zoo_db_connected\bin\Debug\zoo_db_connected.pdb
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.csprojAssemblyReference.cache
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.Form1.resources
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.Properties.Resources.resources
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.csproj.GenerateResource.cache
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.csproj.CoreCompileInputs.cache
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.exe
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.pdb
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\zoo final project\c#\zoo_db_connected\bin\Debug\zoo_db_connected.exe.config
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\zoo final project\c#\zoo_db_connected\bin\Debug\zoo_db_connected.exe
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\zoo final project\c#\zoo_db_connected\bin\Debug\zoo_db_connected.pdb
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\zoo final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.csprojAssemblyReference.cache
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\zoo final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.Form1.resources
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\zoo final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.Properties.Resources.resources
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\zoo final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.csproj.GenerateResource.cache
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\zoo final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.csproj.CoreCompileInputs.cache
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\zoo final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.exe
+D:\תואר הנדסת מחשבים\שנה ד\סמסטר ג\מעבדת ניהול בסיסי נתונים\zoo final project\c#\zoo_db_connected\obj\Debug\zoo_db_connected.pdb
